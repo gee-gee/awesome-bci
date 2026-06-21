@@ -94,6 +94,7 @@ These applications help you design BCI experiments, run them, collect data, and 
 * [EEG-ExPy](https://github.com/neurotechx/eeg-expy)
 * [PyBCI](https://github.com/LMBooth/pybci)
 * [mw75-streamer](https://github.com/arctop/mw75-streamer)
+* [EEGauge](https://github.com/YG-paaleee/eegauge) - Audit public EEG/BCI datasets and reproduce simple baselines honestly (leakage-aware splits, chance/significance, per-class metrics, and MOABB + EEGDash metadata).
 
 ### Mobile Apps
 
